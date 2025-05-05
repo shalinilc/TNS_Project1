@@ -19,20 +19,20 @@ Set the URL as:
 bash
 Copy
 Edit
-http://localhost:8081/api/placement
+http://localhost:8081/placement
 Request Examples:
 
 GET:
 
 Purpose: Fetch all placements
 
-URL: GET http://localhost:8081/api/placement
+URL: GET http://localhost:8081/placement
 
 POST:
 
 Purpose: Add new placement
 
-URL: POST http://localhost:8081/api/placement
+URL: POST http://localhost:8081/placement
 
 Body (JSON):
 
